@@ -20,3 +20,23 @@ N Adh
 ----
 
 Self Grading -- Reflection
+- All values completed as described above.
+
+----
+
+Level 2
+
+Hi,
+
+I hope to add more to my projects with the following addition from my CSS course work to showcase my CSS abilities.
+    1. Connect CSS to HTML file
+    2. Update index.html file with CSS
+    3. Update the view of the front page with CSS coding.
+
+Thank You,
+N Adh
+
+----
+
+Self Grading -- Reflection
+- All values completed as described above for the index,html file
