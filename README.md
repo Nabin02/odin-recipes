@@ -40,3 +40,27 @@ N Adh
 
 Self Grading -- Reflection
 - All values completed as described above for the index,html file
+
+----
+
+Level 3 
+
+Hi,
+
+On this level of update, I hope to use more of my HTML and CSS knowledge to fo the following:
+    1. Create Icons to lead to the three recipes' page from my "home" page.
+    2. Use my knowledge on "border: 2px solid red;" to clean out the spacing issues to make it a clean page throughout the whole website. 
+
+----
+
+Level 4
+
+Hi,
+
+This level of update will be focused on adding more buttons throughout the website to make it much more easy to navigate between different pages.
+
+I hope to add the combination of the following buttons to the different web pages:
+- Home {This will go at the top right of all page except the home page (index.html)}
+- Chocolate Chip Cookies 
+- Sugar Cookies
+- Vanilla Cake

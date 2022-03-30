@@ -29,17 +29,25 @@ h2 {
 .disc.disc {
     font-size: 18px;
     text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 30px;
 }
 
 .link {
     font-size: 12px;
     text-align: left;
+    margin-top: 0px;
 }
 
 .step {
     text-align: left;
     font-size: 18px;
     font-style: italic;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    padding-left: 5px;
 
 }
 
@@ -56,7 +64,21 @@ h2 {
     border-radius: 0px;
 }
 
-#home {
+.home {
     font-size: small;
     text-align: right;
+}
+
+.source {
+    margin-bottom: 0px;
+}
+
+.end-buttons,
+#home {
+    background-color: aquamarine;
+}
+
+.end-buttons {
+    padding-left: 10px;
+    padding-right: 10px;
 }
